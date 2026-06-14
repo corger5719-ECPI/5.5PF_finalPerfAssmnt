@@ -1,10 +1,4 @@
-# 5.5PF_finalPerfAssmnt
-
 # Final Exam Python Project
-
-## Student ID
-
-corger5719
 
 ## Project Description
 
